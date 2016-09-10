@@ -2,7 +2,6 @@
 
 1. Go to your cPanel login screen. \(Be sure to change `example` to your ePanther name.\)
 2. Click Reset Password.
-<pre><code>example.digitalmediadrive.com/cpanel</code></pre>
 3. In the Username field, enter your ePanther name \(do not include @uwm.edu\).
 4. Click the Reset Password button.
 5. You will be prompted to enter the email address associated with your cPanel account. Enter your UWM email address.
