@@ -1,8 +1,8 @@
 # cPanel Account Basics
 
-## About
+## Introduction
 
-cPaenl Account Basics instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
+cPaenl Account Basics for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
 
 ## Credits
 
