@@ -5,7 +5,7 @@
 3. In the **Admin User** field, enter your ePanther name \(do not include @uwm.edu\).
 4. In the **Admin Pass** field, create a strong password for your WordPress account. Note: Always use strong passwords. 
 5. In the **Admin Pass \(Again\)** field, enter your password again.
-6. Leave your UWM email address in the Email field.
+6. Leave your UWM email address in the **Email** field.
 7. In the **Installation URL** area, delete **wordpress** from the feild at the end of the URL. Leave this field empty. 
 8. Change the **Blog name** to your name. \(This can also be changed later in WordPress.\)
 9. In the **Blog description** field, enter a tagline for your site. \(This can also be changed later in WordPress.\)
