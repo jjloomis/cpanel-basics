@@ -13,3 +13,10 @@
 11. Click `Install`. WordPress will install to your server space \(this may take a few minutes.\) When WordPress has finished installing, cPanel will display your WordPress URL, username, and password.
 12. To log into your WordPress site, see WordPress Site Setup and Maintenance: Loggin in.
 
+![Installing WordPress on your server space.](/assets/cpanel-installing-wordpress.png)
+
+
+
+
+
+
