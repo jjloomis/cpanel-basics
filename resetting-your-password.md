@@ -13,3 +13,7 @@
 10. Create a new password for your cPanel account. Note: Always use strong passwords. 
 11. When finished, click `Set Password`. You can now to log into cPanel.
 
+![Performing a cPanel password reset.](/assets/cpanel-password-reset.png)
+
+
+
