@@ -1,6 +1,6 @@
 # cPanel Account Basics
 
-![](/assets/cpanel-login-screen.png)
+![cPanel log in screen.](/assets/cpanel-login-screen.png)
 
 ## About
 
