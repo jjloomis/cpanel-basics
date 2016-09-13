@@ -9,6 +9,5 @@
 7. Click the `Change your password now!` button.
 8. You will need to log out and log in again with your new password to continue working in cPanel.
 
-
-![](/assets/cpanel-changing-your-password.png)
+![cPanel Password & Security page.](/assets/cpanel-changing-your-password.png)
 
