@@ -1,4 +1,4 @@
-# Resetting your password
+# Resetting Your Password
 
 1. In a browser, go to your cPanel login screen. \(Be sure to change `epanther` to your ePanther name.\)<p><pre><code>epanther.digitalmediadrive.com/cpanel
 </code></pre></p>
