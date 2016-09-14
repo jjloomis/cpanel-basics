@@ -11,12 +11,7 @@
 9. In the Blog description field, enter a tagline for your site. \(This can be changed later in WordPress.\)
 10. Leave the Table Prefix set to `wp`.
 11. Click `Install`. WordPress will install to your server space \(this may take a few minutes.\) When WordPress has finished installing, cPanel will display your WordPress URL, username, and password.
-12. To log into your WordPress site, see WordPress Site Setup and Maintenance: Loggin in.
+12. To log into your WordPress site, see [WordPress Site Setup and Maintenance: Loggin Into Your Site](https://jjloomis.gitbooks.io/wordpress-basics/content/logging-into-your-site.html).
 
 ![Installing WordPress on your server space.](/assets/cpanel-installing-wordpress.png)
-
-
-
-
-
 
